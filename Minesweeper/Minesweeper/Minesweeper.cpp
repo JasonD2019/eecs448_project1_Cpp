@@ -24,7 +24,6 @@
 //	result: lose - right click the mine
 //			win  - all spot between 10-19
 
-
 #include "stdafx.h"
 #include <stdio.h>
 #include <Windows.h>
